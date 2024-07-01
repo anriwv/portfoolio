@@ -381,6 +381,11 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .box-bg-2{
 	background-image:url("img/graphic-2.jpg");
 }
+
+.box-bg-11{
+	background-image:url("img/graphic-11.jpg");
+}
+
 .gradient-heading{
 	background:linear-gradient(269deg, rgba(255,255,255,0.32) 0%, #FFFFFF 100%);
 	background-clip:text!important;

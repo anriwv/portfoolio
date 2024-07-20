@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://anriwv.github.io/portfoolio/sitemap.xml
